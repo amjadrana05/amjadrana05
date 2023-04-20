@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Amjad Rana</h1>
+<h3 align="center">Full Stack developer</h3>
 
-<!--
-**amjadrana05/amjadrana05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on <b>Ollyo</b>
+- 🌱 I’m currently learning <b>Node.js</b>
 
-Here are some ideas to get you started:
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+[![My](https://github-readme-stats.vercel.app/api?username=amjadrana05&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl)]()
+
+[![Langguages](https://github-readme-stats.vercel.app/api/top-langs/?username=amjadrana05&hide=stylus,java&langs_count=10&theme=nightowl)]()
+
