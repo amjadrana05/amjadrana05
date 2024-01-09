@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amjad Rana</h1>
 <h3 align="center">Full Stack developer</h3>
 
-- 🔭 I’m currently working on <b>Ollyo</b>
 - 🌱 I’m currently learning <b>Node.js</b>
 
 <h3 align="center">Languages and Tools:</h3>
